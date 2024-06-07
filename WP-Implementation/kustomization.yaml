@@ -1,0 +1,6 @@
+resources:
+  - namespace-2.yaml
+  - ingress-2.yaml
+  - mysql-deployment-2.yaml
+  - wordpress-deployment-2.yaml
+  - secret-2.yaml
